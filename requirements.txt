@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+torch
+transformers
+pyarrow
+mlx-lm
+accelerate
+sentencepiece
+safetensors
+tqdm
+numpy
+python-dotenv
+requests
+detoxify
